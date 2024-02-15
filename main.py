@@ -4,12 +4,12 @@ class Queue():
 
     #REMOVE PASS AND COMPLETE THE FUNCTION
     def push(self, card):
-        pass
+        self.push(card)
 
     #REMOVE PASS AND COMPLETE THE FUNCTION
     def pop(self):
-        pass
+        self.pop()
 
 if __name__ == '__main__':
     #REMOVE PASS AND YOUR CODE GOES HERE
-    pass
+    Queue()
